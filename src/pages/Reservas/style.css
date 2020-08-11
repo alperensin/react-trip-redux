@@ -12,6 +12,10 @@
     align-items: center;
 }
 
+.reservas {
+    text-decoration: none;
+}
+
 .reservas img {
     max-height: 100px;
 }
