@@ -25,6 +25,17 @@
     background: #FFF;
 }
 
+.reservas .reserve-amount {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.reservas .reserve-amount input {
+    text-align: center;
+    width: 50px;
+}
+
 footer button {
     border: 0;
     display: flex;
